@@ -1,7 +1,6 @@
 Hola
 
-se está probando git
+se está probando git y aprendiendo
 
-alexa tiene 9 años
+alexa tiene 910 años
 
-se este aprendiendo a programar y usar git
