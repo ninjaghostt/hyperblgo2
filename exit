@@ -1,0 +1,38 @@
+[33mcommit 1be775a794302a68a8f251954ca2382543a89603[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Dj Git <0206@gmail.com>
+Date:   Tue Mar 5 13:27:13 2024 +0000
+
+    agregamos mas info para el editor de nano
+    
+    y agregamos 2 enter
+
+[33mcommit 3c0cb4582a3baba0b389a9e73a4c5817da30889b[m
+Author: Dj Git <0206@gmail.com>
+Date:   Tue Mar 5 13:17:28 2024 +0000
+
+    Agregamos la fecha actual al momento de aprender git
+
+[33mcommit 6b6f520993b177531bf36c55f37024064309bfa9[m
+Author: Dj Git <0206@gmail.com>
+Date:   Tue Mar 5 13:13:52 2024 +0000
+
+    agregamos mas historia
+    y se puede ampliar el mensaje
+
+[33mcommit b54023078e71d3d2f1238886a3e0c8ded61a080f[m
+Author: Dj Git <0206@gmail.com>
+Date:   Tue Mar 5 13:08:19 2024 +0000
+
+    cambios a la edad de alexa y extension de info
+
+[33mcommit 2249133c015f1542631d2a7e50244099dceeb9d4[m
+Author: Dj Git <duartefernandes0206@gmail.com>
+Date:   Tue Mar 5 12:59:17 2024 +0000
+
+    cambios al archivo de hola
+
+[33mcommit a7d4bf8ec6ea769d77bfe3c895122728dfc0c39c[m
+Author: Dj Git <duartefernandes0206@gmail.com>
+Date:   Tue Mar 5 12:46:12 2024 +0000
+
+    Este es el primer commit de este archivo
