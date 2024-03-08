@@ -1,8 +1,28 @@
 body
 {
+    color: rgb(6, 1, 32);
     text-align: center;
-    background-color: #46d309;
-    font-family: Arial, sans-serif;
+    font-family: "Arial";
+    font-size: 16px;    
     margin: 0;
     padding: 0;
+}
+
+#container
+{
+    width: 70%;
+    padding: lem;
+    margin: 0 auto;
+    text-align: left;
+    border: 1px solid #000;
+}
+
+#container h1
+{
+    color: #000;
+    background-color: #fff;
+    padding: 10px;
+    margin: 0;
+    border-bottom: 1px solid #000;
+    font-size: 20px;
 }
