@@ -48,5 +48,15 @@ box-shadow: 48px 34px 30px 0px rgba(0,0,0,0.75);
 
 }
 
-
+#footer
+{
+    background-color: #504b4b;
+    color: #ff4800;
+    padding: 20px;
+    text-align: center;
+    font-family: "Arial black";
+    font-size: 30px;
+    box-sizing: border-box;
+    -webkit-box-shadow: 48px 34px 30px 0px rgba(0,0,0,0.75);
+}
 
