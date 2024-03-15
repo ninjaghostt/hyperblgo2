@@ -7,9 +7,8 @@ Un blog 2.0 para el curso de Git y Github [ curso de Git y Github](https://platz
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
-* Trucos muy locos del profesor
-* Las personalidades múltiples de Freddy
-* Creado por el increíble Platzi Team
+* Trucos muy locos
+* Las personalidades múltiples del programador
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 
